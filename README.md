@@ -27,3 +27,6 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
     ```sh
     Run, Start Debugging
     ```
+---
+
+⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG) 😊
